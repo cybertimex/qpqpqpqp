@@ -1,0 +1,10 @@
+telebot
+requests
+pycryptodome
+protobuf
+urllib3
+PyJWT
+pycryptodome
+psutil
+protobuf_decoder
+httpx
